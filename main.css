@@ -101,3 +101,31 @@ transition: 1s ease-in-out;
     display: block;
     content: "";
 }
+.hero2__h1{
+    text-align: center;
+    margin: 100px;
+color: #000000;
+font-family: Roboto;
+font-size: 50px;
+font-weight: 700;
+line-height: 59px;
+}
+.karobka{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.h2{
+    color: rgb(51, 51, 51);
+font-family: Roboto;
+font-size: 48px;
+font-weight: 500;
+line-height: 56px;
+}
+.p{
+    color: rgb(51, 51, 51);
+font-family: Roboto;
+font-size: 22px;
+font-weight: 400;
+line-height: 34px;
+}
